@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863787672814",
+    "project_id": "nepschat",
+    "storage_bucket": "nepschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863787672814:android:f274277607b7407875bfff",
+        "android_client_info": {
+          "package_name": "com.example.neps_chat_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863787672814-njhanhm5uuvs1h4tkk5tbcvf9l5vtdpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcrR4y59SMtNsllyqzJjVVsL8swTkLipo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863787672814-njhanhm5uuvs1h4tkk5tbcvf9l5vtdpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
